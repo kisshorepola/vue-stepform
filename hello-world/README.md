@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-yarn install
+cd hello-world and yarn install
 ```
 
 ### Compiles and hot-reloads for development
